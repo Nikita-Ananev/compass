@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "30E0CC44-76CB-4922-93B8-21D5640F9070"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DFCB4D8-8BCD-497F-B045-77FABAA10D32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompassTestWork/MapView/LookMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "buttonAction(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DFCB4D8-8BCD-497F-B045-77FABAA10D32 - 8c6755c93efab459"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CompassTestWork.LookMapView.buttonAction(sender: Swift.Optional&lt;__C.UIButton&gt;) -&gt; ()"
+                  moduleName = "CompassTestWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitaananev/Desktop/testwork/CompassTestWork/CompassTestWork/MapView/LookMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "0DFCB4D8-8BCD-497F-B045-77FABAA10D32 - 8c6755c93efab459"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CompassTestWork.LookMapView.buttonAction(sender: Swift.Optional&lt;__C.UIButton&gt;) -&gt; ()"
+                  moduleName = "CompassTestWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitaananev/Desktop/testwork/CompassTestWork/CompassTestWork/MapView/LookMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
