@@ -1,8 +1,7 @@
-# Compass Test work
+#
  
-Добрый день :) 
-
-Использовал MVVM+RxSwift
+Использовал MVVM+Router
+RxSwift,SnapKit,Mapbox
 
 Для генерации токена использовал библиотеку SwiftJWT, возможно это излишне
 
